@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-name="PREMIERE" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/ae.png",PREMIERE
 http://45.160.223.214:8080/todos/todos/184
+
+EXTINF:-1 tvg-name="PREMIERE2" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/ae.png",PREMIER2
+http://dnsx.co:80/caiomacena3/america/72262
