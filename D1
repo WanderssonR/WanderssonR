@@ -8,3 +8,10 @@ http://dnsx.co:80/caiomacena3/america/72262
 
 #EXTINF:-1 tvg-name="SPORTV 4K" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV 4K
 http://sv1.casaplayer.cf:80/iasmin22/102030/46536
+
+#EXTINF:-1 tvg-name="SPORTV HD" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV HD
+http://sv1.casaplayer.cf:80/iasmin22/102030/46723
+
+#EXTINF:-1 tvg-name="SPORTV 2" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2
+http://sv1.casaplayer.cf:80/iasmin22/102030/3508
+
