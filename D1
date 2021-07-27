@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="PREMIERE CLUBES" group-title="ESPORTES - PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE CLUBES
+#EXTINF:-1 tvg-name="PREMIERE CLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE CLUBES
 http://45.160.223.214:8080/todos/todos/184
 
-#EXTINF:-1 tvg-name="PREMIERE 2" group-title="ESPORTES - PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 2
+#EXTINF:-1 tvg-name="PREMIERE 2" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 2
 http://45.160.223.214:8080/todos/todos/179
 
-#EXTINF:-1 tvg-name="PREMIERE 3" group-title="ESPORTES - PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 3
+#EXTINF:-1 tvg-name="PREMIERE 3" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 3
 http://45.160.223.214:8080/todos/todos/180
 
-#EXTINF:-1 tvg-name="PREMIERE 4" group-title="ESPORTES - PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 4
+#EXTINF:-1 tvg-name="PREMIERE 4" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 4
 http://45.160.223.214:8080/todos/todos/181
 
-#EXTINF:-1 tvg-name="PREMIERE 5" group-title="ESPORTES - PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 5
+#EXTINF:-1 tvg-name="PREMIERE 5" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 5
 http://45.160.223.214:8080/todos/todos/182
 
-#EXTINF:-1 tvg-name="PREMIERE 6" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 6
+#EXTINF:-1 tvg-name="PREMIERE 6" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 6
 http://45.160.223.214:8080/todos/todos/183
 
 #EXTINF:-1 tvg-name="SPORTV HD" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV HD
