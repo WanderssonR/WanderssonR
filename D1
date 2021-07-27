@@ -36,10 +36,10 @@ http://45.160.223.214:8080/todos/todos/153
 #EXTINF:-1 tvg-name="ESPN" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn.png", ESPN
 http://45.160.223.214:8080/todos/todos/142
 
-#EXTINF:-1 tvg-name="ESPN 2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn2.png", ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn.png", ESPN 2
 http://45.160.223.214:8080/todos/todos/143
 
-#EXTINF:-1 tvg-name="ESPN BRASIL" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espnbr.png", ESPN BRASIL
+#EXTINF:-1 tvg-name="ESPN BRASIL" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espnbrasil.png", ESPN BRASIL
 http://45.160.223.214:8080/todos/todos/144
 
 #EXTINF:-1 tvg-name="ESPN EXTRA" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espnextra.png", ESPN EXTRA
