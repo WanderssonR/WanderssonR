@@ -33,6 +33,34 @@ http://45.160.223.214:8080/todos/todos/152
 #EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports2.png", FOX SPORTS 2
 http://45.160.223.214:8080/todos/todos/153
 
+#EXTINF:-1 tvg-name="ESPN" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn.png", ESPN
+http://45.160.223.214:8080/todos/todos/142
+
+#EXTINF:-1 tvg-name="ESPN 2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn2.png", ESPN 2
+http://45.160.223.214:8080/todos/todos/143
+
+#EXTINF:-1 tvg-name="ESPN BRASIL" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espnbr.png", ESPN BRASIL
+http://45.160.223.214:8080/todos/todos/144
+
+#EXTINF:-1 tvg-name="ESPN EXTRA" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espnextra.png", ESPN EXTRA
+http://45.160.223.214:8080/todos/todos/145
+
+#EXTINF:-1 tvg-name="BAND SPORTS" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/bandsports.png", BAND SPORTS
+http://45.160.223.214:8080/todos/todos/119
+
+
+#EXTINF:-1 tvg-name="BAND" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/band.png", BAND
+http://45.160.223.214:8080/todos/todos/224
+
+#EXTINF:-1 tvg-name="GLOBO" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/globo.png", GLOBO
+http://45.160.223.214:8080/todos/todos/13
+
+#EXTINF:-1 tvg-name="SBT" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/sbt.png", SBT
+http://45.160.223.214:8080/todos/todos/90
+
+#EXTINF:-1 tvg-name="RECORD" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/record.png", RECORD
+http://45.160.223.214:8080/todos/todos/22
+
 #EXTINF:-1 tvg-name="MULTISHOW" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/multishow.png", MULTISHOW
 http://45.160.223.214:8080/todos/todos/170
 
