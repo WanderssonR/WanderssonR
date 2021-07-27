@@ -3,15 +3,11 @@
 #EXTINF:-1 tvg-name="PREMIERE" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE
 http://45.160.223.214:8080/todos/todos/184
 
-#EXTINF:-1 tvg-name="PREMIERE" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE
-http://dnsx.co:80/caiomacena3/america/72262
-
-#EXTINF:-1 tvg-name="SPORTV 4K" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV 4K
-http://sv1.casaplayer.cf:80/iasmin22/102030/46536
-
 #EXTINF:-1 tvg-name="SPORTV HD" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV HD
-http://sv1.casaplayer.cf:80/iasmin22/102030/46723
+http://45.160.223.214:8080/todos/todos/188
 
 #EXTINF:-1 tvg-name="SPORTV 2" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2
-http://sv1.casaplayer.cf:80/iasmin22/102030/3508
+http://45.160.223.214:8080/todos/todos/189
 
+#EXTINF:-1 tvg-name="SPORTV 3" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv3.png", SPORTV 3
+http://45.160.223.214:8080/todos/todos/190
