@@ -70,6 +70,6 @@ http://45.160.223.214:8080/todos/todos/170
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/animalplanet.png", ANIMAL PLANET
 http://45.160.223.214:8080/todos/todos/114
 
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/cartoonnetwork.png", CARTOON NETWORK
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="ENTRETENIMENTO" tvg-logo="https://goo.gl/SkSqFt", CARTOON NETWORK
 http://45.160.223.214:8080/todos/todos/124
  
