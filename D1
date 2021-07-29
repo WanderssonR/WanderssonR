@@ -1,75 +1,62 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="PREMIERE CLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE CLUBES
+#EXTINF:-1 tvg-name="PREMIERECLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE CLUBES
 http://45.160.223.214:8080/todos/todos/184
-
-#EXTINF:-1 tvg-name="PREMIERE 2" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 2
+#EXTINF:-1 tvg-name="PREMIERE2" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 2
 http://45.160.223.214:8080/todos/todos/179
-
-#EXTINF:-1 tvg-name="PREMIERE 3" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 3
+#EXTINF:-1 tvg-name="PREMIERE3" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 3
 http://45.160.223.214:8080/todos/todos/180
-
-#EXTINF:-1 tvg-name="PREMIERE 4" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 4
+#EXTINF:-1 tvg-name="PREMIERE4" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 4
 http://45.160.223.214:8080/todos/todos/181
-
-#EXTINF:-1 tvg-name="PREMIERE 5" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 5
+#EXTINF:-1 tvg-name="PREMIERE5" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 5
 http://45.160.223.214:8080/todos/todos/182
-
-#EXTINF:-1 tvg-name="PREMIERE 6" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 6
+#EXTINF:-1 tvg-name="PREMIERE6" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 6
 http://45.160.223.214:8080/todos/todos/183
 
-#EXTINF:-1 tvg-name="SPORTV HD" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV HD
+
+#EXTINF:-1 tvg-name="SPORTV" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV HD
 http://45.160.223.214:8080/todos/todos/188
-
-#EXTINF:-1 tvg-name="SPORTV 2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2
+#EXTINF:-1 tvg-name="SPORTV2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2
 http://45.160.223.214:8080/todos/todos/189
-
-#EXTINF:-1 tvg-name="SPORTV 3" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv3.png", SPORTV 3
+#EXTINF:-1 tvg-name="SPORTV2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2 (Alternativo)
+http://pfsv.io:80/8092863/74963/30291
+#EXTINF:-1 tvg-name="SPORTV3" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv3.png", SPORTV 3
 http://45.160.223.214:8080/todos/todos/190
 
-#EXTINF:-1 tvg-name="FOX SPORTS" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports.png", FOX SPORTS
-http://45.160.223.214:8080/todos/todos/152
 
-#EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports2.png", FOX SPORTS 2
+#EXTINF:-1 tvg-name="FOXSPORTS" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports.png", FOX SPORTS
+http://45.160.223.214:8080/todos/todos/152
+#EXTINF:-1 tvg-name="FOXSPORTS2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports2.png", FOX SPORTS 2
 http://45.160.223.214:8080/todos/todos/153
+
 
 #EXTINF:-1 tvg-name="ESPN" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn.png", ESPN
 http://45.160.223.214:8080/todos/todos/142
-
-#EXTINF:-1 tvg-name="ESPN 2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn.png", ESPN 2
+#EXTINF:-1 tvg-name="ESPN2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn.png", ESPN 2
 http://45.160.223.214:8080/todos/todos/143
-
-#EXTINF:-1 tvg-name="ESPN BRASIL" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espnbrasil.png", ESPN BRASIL
+#EXTINF:-1 tvg-name="ESPNBRASIL" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espnbrasil.png", ESPN BRASIL
 http://45.160.223.214:8080/todos/todos/144
-
-#EXTINF:-1 tvg-name="ESPN EXTRA" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espnextra.png", ESPN EXTRA
+#EXTINF:-1 tvg-name="ESPNEXTRA" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espnextra.png", ESPN EXTRA
 http://45.160.223.214:8080/todos/todos/145
-
-#EXTINF:-1 tvg-name="BAND SPORTS" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/bandsports.png", BAND SPORTS
+#EXTINF:-1 tvg-name="BANDSPORTS" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/bandsports.png", BAND SPORTS
 http://45.160.223.214:8080/todos/todos/119
-
 #EXTINF:-1 tvg-name="COMBATE" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/combate.png", COMBATE
 http://45.160.223.214:8080/todos/todos/126
 
 
 #EXTINF:-1 tvg-name="BAND" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/band.png", BAND
 http://45.160.223.214:8080/todos/todos/224
-
-#EXTINF:-1 tvg-name="GLOBO" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/globo.png", GLOBO
+#EXTINF:-1 tvg-name="GLOBORJ" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/globo.png", GLOBO
 http://45.160.223.214:8080/todos/todos/13
-
 #EXTINF:-1 tvg-name="SBT" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/sbt.png", SBT
 http://45.160.223.214:8080/todos/todos/90
-
 #EXTINF:-1 tvg-name="RECORD" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/record.png", RECORD
 http://45.160.223.214:8080/todos/todos/22
 
 #EXTINF:-1 tvg-name="MULTISHOW" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/multishow.png", MULTISHOW
 http://45.160.223.214:8080/todos/todos/170
-
-#EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/animalplanet.png", ANIMAL PLANET
+#EXTINF:-1 tvg-name="ANIMALPLANET" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/animalplanet.png", ANIMAL PLANET
 http://45.160.223.214:8080/todos/todos/114
-
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="ENTRETENIMENTO" tvg-logo="https://goo.gl/SkSqFt", CARTOON NETWORK
+#EXTINF:-1 tvg-name="CARTOONNETWORK" group-title="ENTRETENIMENTO" tvg-logo="https://goo.gl/SkSqFt", CARTOON NETWORK
 http://45.160.223.214:8080/todos/todos/124
  
