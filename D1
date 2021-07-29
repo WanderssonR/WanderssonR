@@ -22,7 +22,7 @@ http://45.160.223.214:8080/todos/todos/188
 http://45.160.223.214:8080/todos/todos/189
 #EXTINF:-1 tvg-name="SPORTV3" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv3.png", SPORTV 3
 http://45.160.223.214:8080/todos/todos/190
-#EXTINF:-1 tvg-name="SPORTV4" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv4.png", SPORTV 4 ALT
+#EXTINF:-1 tvg-name="SPORTV4" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV 4 ALT
 http://pfsv.io:80/8092863/74963/30288
 #EXTINF:-1 tvg-name="SPORTV" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png",SPORTV MOSAICO
 http://pfsv.io:80/8092863/74963/30286
