@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="PREMIERECLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE CLUBES
+#EXTINF:-1 tvg-name="PREMIERECLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 1 4K
+http://canaishd.servidor.tv:8080/manoela2/manoela2/56509
+#EXTINF:-1 tvg-name="PREMIERECLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 1
 http://45.160.223.214:8080/todos/todos/184
 #EXTINF:-1 tvg-name="PREMIERE2" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 2
 http://45.160.223.214:8080/todos/todos/179
@@ -16,6 +18,8 @@ http://45.160.223.214:8080/todos/todos/183
 http://45.160.223.214:8080/todos/todos/237
 
 
+#EXTINF:-1 tvg-name="SPORTV" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV 4K
+http://canaishd.servidor.tv:8080/manoela2/manoela2/56504
 #EXTINF:-1 tvg-name="SPORTV" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV
 http://45.160.223.214:8080/todos/todos/188
 #EXTINF:-1 tvg-name="SPORTV2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2
@@ -28,6 +32,8 @@ http://pfsv.io:80/8092863/74963/30288
 http://pfsv.io:80/8092863/74963/30286
 
 
+#EXTINF:-1 tvg-name="FOXSPORTS" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports.png", FOX SPORTS 4K
+http://canaishd.servidor.tv:8080/manoela2/manoela2/56507
 #EXTINF:-1 tvg-name="FOXSPORTS" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports.png", FOX SPORTS
 http://45.160.223.214:8080/todos/todos/152
 #EXTINF:-1 tvg-name="FOXSPORTS2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports2.png", FOX SPORTS 2
@@ -42,20 +48,50 @@ http://45.160.223.214:8080/todos/todos/144
 http://45.160.223.214:8080/todos/todos/145
 #EXTINF:-1 tvg-name="BANDSPORTS" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/bandsports.png", BAND SPORTS
 http://45.160.223.214:8080/todos/todos/119
+#EXTINF:-1 tvg-name="COMBATE" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/combate.png", COMBATE 4K
+http://canaishd.servidor.tv:8080/manoela2/manoela2/56511
 #EXTINF:-1 tvg-name="COMBATE" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/combate.png", COMBATE
 http://45.160.223.214:8080/todos/todos/126
-#EXTINF:-1 tvg-name="DAZN" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/dazn.png", DAZN
+#EXTINF:-1 tvg-name="DAZN" group-title="ESPORTES" tvg-logo="https://logos.servidor.tv/dazn.png", DAZN
 http://45.160.223.214:8080/todos/todos/226
 
+#EXTINF:-1 tvg-name="CONMEBOL TV" group-title="ESPORTES" tvg-logo="https://logos.servidor.tv/conmebol.png", CONMEBOL TV 4K
+http://canaishd.servidor.tv:8080/manoela2/manoela2/56486
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="ESPORTES",Conmebol 1 HD
+http://canaishd.servidor.tv:8080/manoela2/manoela2/33267
+#EXTINF:-1 tvg-name="CONMEBOL TV" group-title="ESPORTES" tvg-logo="https://logos.servidor.tv/conmebol.png", CONMEBOL TV 2
+http://canaishd.servidor.tv:8080/manoela2/manoela2/33272
+#EXTINF:-1 tvg-name="CONMEBOL TV" group-title="ESPORTES" tvg-logo="https://logos.servidor.tv/conmebol.png", CONMEBOL TV 3
+http://canaishd.servidor.tv:8080/manoela2/manoela2/33273
+#EXTINF:-1 tvg-name="CONMEBOL TV" group-title="ESPORTES" tvg-logo="https://logos.servidor.tv/conmebol.png", CONMEBOL TV 4
+http://canaishd.servidor.tv:8080/manoela2/manoela2/33274
 
+#EXTINF:-1 tvg-name="Estadio TNT Sports 1 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="ESPORTES",Estadio TNT Sports 1 HD
+http://canaishd.servidor.tv:8080/manoela2/manoela2/63299
+#EXTINF:-1 tvg-name="Estadio TNT Sports 2 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="ESPORTES",Estadio TNT Sports 2 HD
+http://canaishd.servidor.tv:8080/manoela2/manoela2/63298
+#EXTINF:-1 tvg-name="Estadio TNT Sports 3 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="ESPORTES",Estadio TNT Sports 3 HD
+http://canaishd.servidor.tv:8080/manoela2/manoela2/63297
+#EXTINF:-1 tvg-name="Estadio TNT Sports 4 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="ESPORTES",Estadio TNT Sports 4 HD
+http://canaishd.servidor.tv:8080/manoela2/manoela2/63296
+#EXTINF:-1 tvg-name="Estadio TNT Sports 5 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="ESPORTES",Estadio TNT Sports 5 HD
+http://canaishd.servidor.tv:8080/manoela2/manoela2/63295
+#EXTINF:-1 tvg-name="Estadio TNT Sports 6 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="ESPORTES",Estadio TNT Sports 6 HD
+http://canaishd.servidor.tv:8080/manoela2/manoela2/63294
+
+
+#EXTINF:-1 tvg-name="GLOBO BR" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/globo.png", GLOBO BRASIL 4K
+http://canaishd.servidor.tv:8080/manoela2/manoela2/56487
 #EXTINF:-1 tvg-name="GLOBO BR" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/globo.png", GLOBO BRASIL
 http://45.160.223.214:8080/todos/todos/231
-#EXTINF:-1 tvg-name="GLOBO BRASILIA HD" group-title="ABERTO" tvg-logo="http://distv.net/icons/globo.png",GLOBO BRASILIA HD
+#EXTINF:-1 tvg-name="GLOBO BRASILIA HD" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/globo.png",GLOBO BRASILIA HD
 http://45.160.223.214:8080/todos/todos/3
 #EXTINF:-1 tvg-name="GLOBO RIO" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/globo.png", GLOBO RIO
 http://45.160.223.214:8080/todos/todos/13
 #EXTINF:-1 tvg-name="SBT" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/sbt.png", SBT BRASIL
 http://45.160.223.214:8080/todos/todos/238
+#EXTINF:-1 tvg-name="RECORD" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/record.png", RECORD BRASIL 4K
+http://canaishd.servidor.tv:8080/manoela2/manoela2/56510
 #EXTINF:-1 tvg-name="RECORD" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/record.png", RECORD BRASIL
 http://45.160.223.214:8080/todos/todos/252
 #EXTINF:-1 tvg-name="RECORD" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/record.png", RECORD BRASÍLIA
@@ -69,6 +105,8 @@ http://45.160.223.214:8080/todos/todos/170
 http://45.160.223.214:8080/todos/todos/169
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/comedycentral.png",COMEDY CENTRAL
 http://45.160.223.214:8080/todos/todos/127
+#EXTINF:-1 tvg-name="ANIMALPLANET" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/animalplanet.png", ANIMAL PLANET 4K
+http://canaishd.servidor.tv:8080/manoela2/manoela2/56505
 #EXTINF:-1 tvg-name="ANIMALPLANET" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/animalplanet.png", ANIMAL PLANET
 http://45.160.223.214:8080/todos/todos/114
 #EXTINF:-1 tvg-name="TNT" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/tnt.png", TNT
@@ -78,7 +116,16 @@ http://pfsv.io:80/8092863/74963/30298
 
 #EXTINF:-1 tvg-name="CARTOONNETWORK" group-title="DESENHOS" tvg-logo="http://distv.net/icons/cartoonnetwork.png", CARTOON NETWORK
 http://45.160.223.214:8080/todos/todos/124
-
+#EXTINF:-1 tvg-name="Dragon Ball" tvg-logo="https://logos.servidor.tv/dragonball.png" group-title="DESENHOS",Dragon Ball
+http://canaishd.servidor.tv:8080/manoela2/manoela2/33093
+#EXTINF:-1 tvg-name="Dragon Ball GT" tvg-logo="https://logos.servidor.tv/dragonballgt.png" group-title="DESENHOS",Dragon Ball GT
+http://canaishd.servidor.tv:8080/manoela2/manoela2/33094
+#EXTINF:-1  tvg-name="Dragon Ball Heroes" tvg-logo="https://logos.servidor.tv/a0ecbc19e5c854d3115005d7ae47990c.png" group-title="DESENHOS",Dragon Ball Heroes
+http://canaishd.servidor.tv:8080/manoela2/manoela2/32594
+#EXTINF:-1 tvg-name="Dragon Ball Super" tvg-logo="https://logos.servidor.tv/412d425881bd5b03aa049f1ba655143c.jpg" group-title="DESENHOS",Dragon Ball Super
+http://canaishd.servidor.tv:8080/manoela2/manoela2/32623
+#EXTINF:-1 tvg-name="Dragon Ball Z" tvg-logo="https://logos.servidor.tv/726264f3487200fc4a50d834a7bae713.jpg" group-title="DESENHOS",Dragon Ball Z
+http://canaishd.servidor.tv:8080/manoela2/manoela2/32622
 
 
 
