@@ -59,9 +59,9 @@ http://45.160.223.214:8080/todos/todos/22
 http://45.160.223.214:8080/todos/todos/170
 #EXTINF:-1 tvg-name="ANIMALPLANET" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/animalplanet.png", ANIMAL PLANET
 http://45.160.223.214:8080/todos/todos/114
-#EXTINF:-1 tvg-name="CARTOONNETWORK" group-title="ENTRETENIMENTO" tvg-logo="https://goo.gl/SkSqFt", CARTOON NETWORK
+#EXTINF:-1 tvg-name="CARTOONNETWORK" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/cartoonnetwork.png", CARTOON NETWORK
 http://45.160.223.214:8080/todos/todos/124
-#EXTINF:-1 tvg-name="VIVA" group-title="ENTRETENIMENTO" tvg-logo="https://goo.gl/SkSqFt", VIVA
+#EXTINF:-1 tvg-name="VIVA" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/viva.png", VIVA
 http://pfsv.io:80/8092863/74963/30298
 
 
