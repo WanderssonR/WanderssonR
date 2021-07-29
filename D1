@@ -32,8 +32,6 @@ http://pfsv.io:80/8092863/74963/30286
 http://45.160.223.214:8080/todos/todos/152
 #EXTINF:-1 tvg-name="FOXSPORTS2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports2.png", FOX SPORTS 2
 http://45.160.223.214:8080/todos/todos/153
-
-
 #EXTINF:-1 tvg-name="ESPN" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn.png", ESPN
 http://45.160.223.214:8080/todos/todos/142
 #EXTINF:-1 tvg-name="ESPN2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/espn.png", ESPN 2
@@ -74,18 +72,18 @@ http://pfsv.io:80/8092863/74963/30298
  
 #EXTINF:-1 tvg-name="SPORTV" group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV ALT
 http://pfsv.io:80/8092863/74963/30292
-#EXTINF:-1 tvg-name="SPORTV2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2 ALT
+#EXTINF:-1 tvg-name="SPORTV2" group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2 ALT
 http://pfsv.io:80/8092863/74963/30291
-#EXTINF:-1 tvg-name="SPORTV3" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv3.png", SPORTV 3 ALT
+#EXTINF:-1 tvg-name="SPORTV3" group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/sportv3.png", SPORTV 3 ALT
 http://pfsv.io:80/8092863/74963/30291
 
 
-#EXTINF:-1 tvg-name="PREMIERECLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE CLUBES ALT
+#EXTINF:-1 tvg-name="PREMIERECLUBES" group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE CLUBES ALT
 http://pfsv.io:80/8092863/74963/30287
-#EXTINF:-1 tvg-name="PREMIERE6" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 6 ALT
+#EXTINF:-1 tvg-name="PREMIERE6" group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 6 ALT
 http://pfsv.io:80/8092863/74963/30298
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 5 ALT
+#EXTINF:-1 group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 5 ALT
 http://pfsv.io:80/8092863/74963/30285
-EXTINF:-1 group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 4 ALT
+EXTINF:-1 group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 4 ALT
 http://pfsv.io:80/8092863/74963/30284
 
