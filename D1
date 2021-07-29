@@ -48,7 +48,7 @@ http://45.160.223.214:8080/todos/todos/126
 
 #EXTINF:-1 tvg-name="BAND" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/band.png", BAND
 http://45.160.223.214:8080/todos/todos/224
-#EXTINF:-1 tvg-name="GLOBORJ" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/globo.png", GLOBO
+#EXTINF:-1 tvg-name="GLOBO RIO" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/globo.png", GLOBO
 http://45.160.223.214:8080/todos/todos/13
 #EXTINF:-1 tvg-name="SBT" group-title="ABERTO" tvg-logo="http://ipbr.tv/img/stream/sbt.png", SBT
 http://45.160.223.214:8080/todos/todos/90
