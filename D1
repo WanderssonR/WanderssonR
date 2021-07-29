@@ -12,17 +12,22 @@ http://45.160.223.214:8080/todos/todos/181
 http://45.160.223.214:8080/todos/todos/182
 #EXTINF:-1 tvg-name="PREMIERE6" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 6
 http://45.160.223.214:8080/todos/todos/183
+#EXTINF:-1 tvg-name="PREMIERE7" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 7 ALT
+http://pfsv.io:80/8092863/74963/30290
 
 
-#EXTINF:-1 tvg-name="SPORTV" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV HD
+#EXTINF:-1 tvg-name="SPORTV" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV
 http://45.160.223.214:8080/todos/todos/188
+#EXTINF:-1 tvg-name="SPORTV" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV ALT
+http://pfsv.io:80/8092863/74963/30292
 #EXTINF:-1 tvg-name="SPORTV2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2
 http://45.160.223.214:8080/todos/todos/189
-#EXTINF:-1 tvg-name="SPORTV2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2 (Alternativo)
+#EXTINF:-1 tvg-name="SPORTV2" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2 ALT
 http://pfsv.io:80/8092863/74963/30291
 #EXTINF:-1 tvg-name="SPORTV3" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv3.png", SPORTV 3
 http://45.160.223.214:8080/todos/todos/190
-
+#EXTINF:-1 tvg-name="SPORTV3" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/sportv3.png", SPORTV 3 ALT
+http://pfsv.io:80/8092863/74963/30291
 
 #EXTINF:-1 tvg-name="FOXSPORTS" group-title="ESPORTES" tvg-logo="http://ipbr.tv/img/stream/foxsports.png", FOX SPORTS
 http://45.160.223.214:8080/todos/todos/152
