@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="PREMIERECLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 1 4K
-http://canaishd.servidor.tv:8080/manoela2/manoela2/56509
 #EXTINF:-1 tvg-name="PREMIERECLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 1
 http://45.160.223.214:8080/todos/todos/184
 #EXTINF:-1 tvg-name="PREMIERE2" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 2
@@ -109,10 +107,11 @@ http://45.160.223.214:8080/todos/todos/127
 http://canaishd.servidor.tv:8080/manoela2/manoela2/56505
 #EXTINF:-1 tvg-name="ANIMALPLANET" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/animalplanet.png", ANIMAL PLANET
 http://45.160.223.214:8080/todos/todos/114
-#EXTINF:-1 tvg-name="TNT" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/tnt.png", TNT
-http://45.160.223.214:8080/todos/todos/201
 #EXTINF:-1 tvg-name="VIVA" group-title="ENTRETENIMENTO" tvg-logo="http://ipbr.tv/img/stream/viva.png", VIVA
 http://pfsv.io:80/8092863/74963/30298
+
+
+
 
 #EXTINF:-1 tvg-name="CARTOONNETWORK" group-title="DESENHOS" tvg-logo="http://distv.net/icons/cartoonnetwork.png", CARTOON NETWORK
 http://45.160.223.214:8080/todos/todos/124
@@ -130,7 +129,16 @@ http://canaishd.servidor.tv:8080/manoela2/manoela2/32622
 
 
 
- 
+
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
+http://45.160.223.214:8080/todos/todos/208
+#EXTINF:-1 tvg-name="TNT" group-title="FILMES E SERIES" tvg-logo="http://ipbr.tv/img/stream/tnt.png", TNT
+http://45.160.223.214:8080/todos/todos/201
+
+
+
+
+
 #EXTINF:-1 tvg-name="SPORTV" group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/sportv.png", SPORTV ALT
 http://pfsv.io:80/8092863/74963/30292
 #EXTINF:-1 tvg-name="SPORTV2" group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/sportv2.png", SPORTV 2 ALT
@@ -139,6 +147,8 @@ http://pfsv.io:80/8092863/74963/30291
 http://pfsv.io:80/8092863/74963/30291
 
 
+#EXTINF:-1 tvg-name="PREMIERECLUBES" group-title="PREMIERE" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 1 HD ALT
+http://canaishd.servidor.tv:8080/manoela2/manoela2/56509
 #EXTINF:-1 group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE CLUBES ALT
 http://pfsv.io:80/8092863/74963/30287
 EXTINF:-1 group-title="CANAIS ALTERNATIVOS" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE 4 ALT
