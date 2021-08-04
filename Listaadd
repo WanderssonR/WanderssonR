@@ -1,0 +1,1795 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", IPTV
+https://ottplayer.tv/public/images/best_video.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD NEWS
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w1341076987.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND
+http://168.205.87.198:8555/live/elienecp/123456/19.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CNN Brasil
+http://168.205.87.198:8555/live/123456/123456/28.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CNN Brasil
+http://200.4.96.35:8003/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEWS
+http://200.4.96.35:8003/play/a03h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO RJ - TEMPORÁRIO
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ELEMENTAL Channel
+https://5c483b9d1019c.streamlock.net/8064/8064/chunklist_w1126418059.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ELEMENTAL Channel  (SP)
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ACESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV ESCOLA
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAH TV
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANALFCV TV (Muria -MG)
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CULTURA PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CBN Sao Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GOSPEL FILMES
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1802804125.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV CINE
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w468093785.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE UTV BRASIL
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w229766121.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV NOVA ONDA
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w210878578.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFE CHANNEL BRASIL
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4365564105550557000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CHANNEL 1
+https://stmv1.srvstm.com/channel1/channel1/chunklist_w1484319704.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA GAZETA TV
+http://video02.kshost.com.br/sueli3485/sueli3485/chunklist_w1130746084.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV J. N - FILMES
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w454345609.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ENTORNO SUL WEB TV
+http://video02.kshost.com.br/manoel2072/manoel2072/chunklist_w531577828.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV SUL- FILMES
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CARIOCA NET - FILMES
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w301420907.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TWG FILMES
+https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1428805801.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", D+TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV SERRA VERDE
+http://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w1352055894.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIP WEB
+https://stmv1.srvsh.com.br/matinelio8065/matinelio8065/chunklist_w230093158.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE PREMIUM TV
+https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1711873655.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE ACTION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CENTRAL TV
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w673606021.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BET BRASIL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE LIVRE 2
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w1963860689.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL ITV (Filmes e Series)
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1051564014.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES DA WEB 1
+https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES DA WEB 2
+http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES ACAO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES 1
+https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w1332883736.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES 2
+https://01.paineldevideo.com/encaucafm/encaucafm/chunklist_w1224794838.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV WEB SERIES
+https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1428805801.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CLASSIC TV - FILMES
+https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w322169939.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV PANTANAL - FILMES
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE BRASIL
+http://168.205.87.198:8555/live/123456/123456/145.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV TRIBUNA - FILMES
+https://novo.bitstreaming.info:1936/8132/8132/chunklist_w1519752561.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE CLONE
+https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/chunklist_w1962759487.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RSC TV BRASIL
+http://177.11.96.110:9080/hls/sictv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV ILHA - FILMES
+https://01.paineldevideo.com/encaucafm/encaucafm/chunklist_w1864256847.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CTV
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w21837477.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE SUL TV
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w188223555.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV NOVA PARAIBA
+https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/chunklist_w539011071.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VILA TV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w606214968.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIGITAL BIRIGUI
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RAKUTEN
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SERIES ANTIGAS
+https://serv3.videovox.pw/alexandre4108/alexandre4108/chunklist_w648229082.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BS TV
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w1147921945.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV OSÓRIO NEWS
+https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w2137453495.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w527769475.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ELY TV
+https://stmv1.srvsite.com/ely/ely/chunklist_w1757586043.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV POMBAL
+https://stmv1.srvif.com/tvpombal/tvpombal/chunklist_w2104121860.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK
+http://168.205.87.198:8555/live/123456/123456/26.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK
+http://168.205.87.198:8555/live/123456/123456/26.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY XD
+http://168.205.87.198:8555/live/elienecp/123456/47.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", OS JETSONS TV 1
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", OS JETSONS  TV 2
+https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY Kids
+http://200.4.96.35:8003/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BOOMERANG
+http://168.205.87.198:8555/live/123456/123456/22.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PLAY PLUS
+https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY JR
+http://168.205.87.198:8555/live/elienecp/123456/46.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY JR
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/46.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BABY FIRST
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", KURIAKUS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PLAY KIDS
+https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SERIES ANTIGAS
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1943212045.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON ANTIGOS
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w703592068.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
+http://200.4.96.35:8003/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Family
+http://200.4.96.35:8003/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Mundi
+http://200.4.96.35:8002/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MUNDI
+http://200.4.96.35:8001/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Plus
+http://200.4.96.35:8003/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Pop
+http://200.4.96.35:8003/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Signature
+http://200.4.96.35:8003/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Xtreme
+http://200.4.96.35:8002/play/a0f1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO2
+http://200.4.96.35:8003/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Hollywood [Portugal]
+http://51.15.0.141:88/hollywood/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TCM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SÉRIES
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Comedy Central
+http://200.4.96.35:8003/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Sony
+http://200.4.96.35:8003/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TCM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SÉRIES
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX
+http://168.205.87.198:8555/live/123456/123456/68.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL 1
+http://168.205.87.198:8555/live/123456/123456/33.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL 3
+http://200.4.96.35:8003/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H & H - 2
+http://168.205.87.198:8555/live/123456/123456/35.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TRAVEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/124.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TRUTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/130.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GNT
+http://200.4.96.35:8003/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 2
+http://168.205.87.198:8555/live/123456/123456/71.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY 1
+http://200.4.96.35:8001/play/a0e8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY 2
+http://200.4.96.35:8003/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY 3
+http://200.4.96.35:8002/play/a0e8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCI 1
+http://168.205.87.198:8555/live/123456/123456/38.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER 1
+http://168.205.87.198:8555/live/123456/123456/39.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER 2
+http://168.205.87.198:8555/live/123456/123456/39.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TLC 4
+http://168.205.87.198:8555/live/elienecp/123456/40.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO 1
+http://168.205.87.198:8555/live/123456/123456/41.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO 2
+http://168.205.87.198:8555/live/123456/123456/41.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD 1
+http://168.205.87.198:8555/live/123456/123456/42.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD 2
+http://168.205.87.198:8555/live/123456/123456/42.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD 3
+http://200.4.96.35:8003/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BRZ Channel
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VRT CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PLUTO TV NATUREZA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a4847740-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca3f95d8-1041-4459-9b66-b5047a1da826&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NAT GEO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/78.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LOVE NATURE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a4847740-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca3f95d8-1041-4459-9b66-b5047a1da826&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 1
+http://200.4.96.35:8001/play/a0fe/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Classicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Classicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Comedia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Familia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Familia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Familia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE FAMILIA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Sucessos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fail Army
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fail Army
+https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fail Army
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=502&deviceId=5f5141c1605ddf000748eb1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fail Army
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FailArmy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE
+http://200.4.96.35:8001/play/a0em/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE
+http://200.4.96.35:8002/play/a0em/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SPORTS
+http://200.4.96.35:8001/play/a0f9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SPORTS
+http://200.4.96.35:8002/play/a0f9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX SPORTES
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN BRASIL
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FISH TV
+http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 1 (PT)
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX SPORTES
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WOOHOO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/141.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", EDGE SPORTS
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLORY KICKBOXINGi
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT SPORTS 1
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT SPORTS 2
+http://177.20.208.58:8000/play/a052/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT SPORTS 3
+http://177.20.208.58:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT SPORTS 4
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fighting Spirit
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 2 (PT)
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 3 (PT)
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 4 (PT)
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 5 (PT)
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 2
+http://200.4.96.35:8004/play/a0dy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 5
+http://200.4.96.35:8004/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 7
+http://200.4.96.35:8001/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 8
+http://200.4.96.35:8002/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 11
+http://200.4.96.35:8002/play/a0eb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COPA NORDESTE 1
+http://200.4.96.35:8001/play/a0fg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COPA NORDESTE 2
+http://200.4.96.35:8002/play/a0fg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COPA NORDESTE 3
+http://200.4.96.35:8001/play/a0fh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COPA NORDESTE 4
+http://200.4.96.35:8002/play/a0fh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BRA MUSIC
+http://168.205.87.198:8555/live/123456/123456/24.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL CULT
+http://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIS
+http://200.4.96.35:8001/play/a0ex/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMERICA LATINO
+http://168.205.87.198:8555/live/123456/123456/16.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL MEGA
+https://origin-02.nxplay.com.br/MEGA/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CALIFORNIA MUSIC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Classic Hits
+http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 4
+http://168.205.87.198:8555/live/123456/123456/18.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 5
+http://168.205.87.198:8555/live/123456/123456/18.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 6
+http://168.205.87.198:8555/live/elienecp/123456/18.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 7
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 8
+http://168.205.87.198:8555/live/elienecp/123456/18.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER 3
+http://200.4.96.35:8003/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TLC 1
+http://168.205.87.198:8555/live/123456/123456/40.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TLC 2
+http://168.205.87.198:8555/live/elienecp/123456/40.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TLC 3
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/40.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO 3
+http://200.4.96.35:8001/play/a0eo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Turbo 4
+http://200.4.96.35:8002/play/a0eo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCI 3
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCI 5
+http://200.4.96.35:8001/play/a0ds/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 4
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/71.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 5
+http://200.4.96.35:8001/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 6
+http://200.4.96.35:8002/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 7
+http://168.205.87.198:8555/live/elienecp/123456/71.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 8
+http://168.205.87.198:8555/live/123456/123456/71.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
+http://200.4.96.35:8001/play/a0e9/index.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s77795_dark_360w_270h.png" group-title="Variedades", A&E FHD [H265]
+http://srvx.io:80/live/cliente.willian/will1/71761.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s77795_dark_360w_270h.png" group-title="Variedades", A&E FHD
+http://srvx.io:80/live/cliente.willian/will1/71760.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s77795_dark_360w_270h.png" group-title="Variedades", A&E HD
+http://srvx.io:80/live/cliente.willian/will1/71762.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s77795_dark_360w_270h.png" group-title="Variedades", A&E SD
+http://srvx.io:80/live/cliente.willian/will1/71763.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s95744_dark_360w_270h.png" group-title="4K", Globo News
+http://srvx.io:80/live/cliente.willian/will1/90248.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104196_dark_360w_270h.png" group-title="4K", Globo TV Verdes Mares
+http://srvx.io:80/live/cliente.willian/will1/72080.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s95744_dark_360w_270h.png" group-title="NotÃ­cias", Globo News FHD [H265]
+http://srvx.io:80/live/cliente.willian/will1/71998.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s95744_dark_360w_270h.png" group-title="NotÃ­cias", Globo News FHD
+http://srvx.io:80/live/cliente.willian/will1/71997.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s95744_dark_360w_270h.png" group-title="NotÃ­cias", Globo News HD
+http://srvx.io:80/live/cliente.willian/will1/71999.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s95744_dark_360w_270h.png" group-title="NotÃ­cias", Globo News SD
+http://srvx.io:80/live/cliente.willian/will1/72000.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75844_dark_360w_270h.png" group-title="Globo", Globo Brasilia FHD
+http://srvx.io:80/live/cliente.willian/will1/71973.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75844_dark_360w_270h.png" group-title="Globo", Globo Brasilia HD
+http://srvx.io:80/live/cliente.willian/will1/71974.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75844_dark_360w_270h.png" group-title="Globo", Globo Brasilia SD
+http://srvx.io:80/live/cliente.willian/will1/71975.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo EPTV Campinas FHD
+http://srvx.io:80/live/cliente.willian/will1/71976.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo EPTV Campinas HD
+http://srvx.io:80/live/cliente.willian/will1/71977.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo EPTV Campinas SD
+http://srvx.io:80/live/cliente.willian/will1/71978.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo EPTV Ribeirao Preto HD
+http://srvx.io:80/live/cliente.willian/will1/72589.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo EPTV Ribeirao Preto SD
+http://srvx.io:80/live/cliente.willian/will1/72591.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo EPTV Sao Carlos FHD
+http://srvx.io:80/live/cliente.willian/will1/97594.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo EPTV Sao Carlos HD
+http://srvx.io:80/live/cliente.willian/will1/97593.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo EPTV Sao Carlos SD
+http://srvx.io:80/live/cliente.willian/will1/72592.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104804_dark_360w_270h.png" group-title="Globo", Globo EPTV Sul de Minas FHD
+http://srvx.io:80/live/cliente.willian/will1/71979.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104804_dark_360w_270h.png" group-title="Globo", Globo EPTV Sul de Minas HD
+http://srvx.io:80/live/cliente.willian/will1/71980.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104804_dark_360w_270h.png" group-title="Globo", Globo EPTV Sul de Minas SD
+http://srvx.io:80/live/cliente.willian/will1/71981.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105310_dark_360w_270h.png" group-title="Globo", Globo Inter TV Alto Litoral FHD
+http://srvx.io:80/live/cliente.willian/will1/71982.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105310_dark_360w_270h.png" group-title="Globo", Globo Inter TV Alto Litoral HD
+http://srvx.io:80/live/cliente.willian/will1/71983.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105310_dark_360w_270h.png" group-title="Globo", Globo Inter TV Alto Litoral SD
+http://srvx.io:80/live/cliente.willian/will1/71984.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Inter TV Cabugi FHD
+http://srvx.io:80/live/cliente.willian/will1/71985.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Inter TV Cabugi HD
+http://srvx.io:80/live/cliente.willian/will1/71986.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Inter TV Cabugi SD
+http://srvx.io:80/live/cliente.willian/will1/71987.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Inter TV dos Vales FHD
+http://srvx.io:80/live/cliente.willian/will1/71988.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Inter TV dos Vales HD
+http://srvx.io:80/live/cliente.willian/will1/71989.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Inter TV dos Vales SD
+http://srvx.io:80/live/cliente.willian/will1/71990.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105206_dark_360w_270h.png" group-title="Globo", Globo Inter TV Grande Minas FHD
+http://srvx.io:80/live/cliente.willian/will1/71991.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105206_dark_360w_270h.png" group-title="Globo", Globo Inter TV Grande Minas HD
+http://srvx.io:80/live/cliente.willian/will1/71992.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105206_dark_360w_270h.png" group-title="Globo", Globo Inter TV Grande Minas SD
+http://srvx.io:80/live/cliente.willian/will1/71993.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105311_dark_360w_270h.png" group-title="Globo", Globo Inter TV Serra Mar FHD
+http://srvx.io:80/live/cliente.willian/will1/71994.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105311_dark_360w_270h.png" group-title="Globo", Globo Inter TV Serra Mar HD
+http://srvx.io:80/live/cliente.willian/will1/71995.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105311_dark_360w_270h.png" group-title="Globo", Globo Inter TV Serra Mar SD
+http://srvx.io:80/live/cliente.willian/will1/71996.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Minas FHD
+http://srvx.io:80/live/cliente.willian/will1/71970.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Minas HD
+http://srvx.io:80/live/cliente.willian/will1/71971.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Minas SD
+http://srvx.io:80/live/cliente.willian/will1/71972.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Nacional FHD
+http://srvx.io:80/live/cliente.willian/will1/108686.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Nacional HD
+http://srvx.io:80/live/cliente.willian/will1/108688.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Nacional SD
+http://srvx.io:80/live/cliente.willian/will1/108692.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75862_dark_360w_270h.png" group-title="Globo", Globo Nordeste FHD
+http://srvx.io:80/live/cliente.willian/will1/72001.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75862_dark_360w_270h.png" group-title="Globo", Globo Nordeste HD
+http://srvx.io:80/live/cliente.willian/will1/72002.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75862_dark_360w_270h.png" group-title="Globo", Globo Nordeste SD
+http://srvx.io:80/live/cliente.willian/will1/72003.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Blumenau FHD
+http://srvx.io:80/live/cliente.willian/will1/72004.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Blumenau HD
+http://srvx.io:80/live/cliente.willian/will1/72005.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Blumenau SD
+http://srvx.io:80/live/cliente.willian/will1/72006.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Chapeco FHD
+http://srvx.io:80/live/cliente.willian/will1/72007.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Chapeco HD
+http://srvx.io:80/live/cliente.willian/will1/72008.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Chapeco SD
+http://srvx.io:80/live/cliente.willian/will1/72009.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Florianopolis FHD
+http://srvx.io:80/live/cliente.willian/will1/72010.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Florianopolis HD
+http://srvx.io:80/live/cliente.willian/will1/72011.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Florianopolis SD
+http://srvx.io:80/live/cliente.willian/will1/72012.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Joinville FHD
+http://srvx.io:80/live/cliente.willian/will1/91034.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Joinville HD
+http://srvx.io:80/live/cliente.willian/will1/91033.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo NSC TV Joinville SD
+http://srvx.io:80/live/cliente.willian/will1/91032.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RBS TV Caxias do Sul FHD
+http://srvx.io:80/live/cliente.willian/will1/72013.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RBS TV Caxias do Sul HD
+http://srvx.io:80/live/cliente.willian/will1/72014.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RBS TV Caxias do Sul SD
+http://srvx.io:80/live/cliente.willian/will1/72015.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RBS TV Pelotas FHD
+http://srvx.io:80/live/cliente.willian/will1/72617.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RBS TV Pelotas HD
+http://srvx.io:80/live/cliente.willian/will1/72618.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RBS TV Pelotas SD
+http://srvx.io:80/live/cliente.willian/will1/100023.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RBS TV Porto Alegre FHD
+http://srvx.io:80/live/cliente.willian/will1/72016.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RBS TV Porto Alegre HD
+http://srvx.io:80/live/cliente.willian/will1/72017.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RBS TV Porto Alegre SD
+http://srvx.io:80/live/cliente.willian/will1/72018.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Rede Amazonica Manaus FHD
+http://srvx.io:80/live/cliente.willian/will1/72019.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Rede Amazonica Manaus HD
+http://srvx.io:80/live/cliente.willian/will1/72020.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Rede Amazonica Porto Velho FHD
+http://srvx.io:80/live/cliente.willian/will1/108684.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Rede Amazonica Porto Velho HD
+http://srvx.io:80/live/cliente.willian/will1/93592.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Rede Amazonica Porto Velho SD
+http://srvx.io:80/live/cliente.willian/will1/93593.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Rede Amazonica Rio Branco FHD
+http://srvx.io:80/live/cliente.willian/will1/106637.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Rede Amazonica Rio Branco HD
+http://srvx.io:80/live/cliente.willian/will1/93594.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo Rede Amazonica Rio Branco SD
+http://srvx.io:80/live/cliente.willian/will1/93595.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104177_dark_360w_270h.png" group-title="Globo", Globo Rede Bahia FHD
+http://srvx.io:80/live/cliente.willian/will1/72022.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104177_dark_360w_270h.png" group-title="Globo", Globo Rede Bahia HD
+http://srvx.io:80/live/cliente.willian/will1/72023.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104177_dark_360w_270h.png" group-title="Globo", Globo Rede Bahia SD
+http://srvx.io:80/live/cliente.willian/will1/72024.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RJ FHD
+http://srvx.io:80/live/cliente.willian/will1/72025.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RJ HD
+http://srvx.io:80/live/cliente.willian/will1/72026.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RJ SD
+http://srvx.io:80/live/cliente.willian/will1/72027.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC Paranavai FHD
+http://srvx.io:80/live/cliente.willian/will1/72028.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC Paranavai HD
+http://srvx.io:80/live/cliente.willian/will1/72029.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC Paranavai SD
+http://srvx.io:80/live/cliente.willian/will1/72030.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75863_dark_360w_270h.png" group-title="Globo", Globo RPC TV Curitiba FHD
+http://srvx.io:80/live/cliente.willian/will1/72625.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75863_dark_360w_270h.png" group-title="Globo", Globo RPC TV Curitiba HD
+http://srvx.io:80/live/cliente.willian/will1/72626.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75863_dark_360w_270h.png" group-title="Globo", Globo RPC TV Curitiba SD
+http://srvx.io:80/live/cliente.willian/will1/72627.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC TV Foz do Iguacu FHD
+http://srvx.io:80/live/cliente.willian/will1/72032.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC TV Foz do Iguacu HD
+http://srvx.io:80/live/cliente.willian/will1/72033.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC TV Foz do Iguacu SD
+http://srvx.io:80/live/cliente.willian/will1/72034.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC TV Maringa FHD
+http://srvx.io:80/live/cliente.willian/will1/96887.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC TV Maringa HD
+http://srvx.io:80/live/cliente.willian/will1/96888.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC TV Maringa SD
+http://srvx.io:80/live/cliente.willian/will1/96889.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC TV Ponta Grossa FHD
+http://srvx.io:80/live/cliente.willian/will1/72036.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC TV Ponta Grossa HD
+http://srvx.io:80/live/cliente.willian/will1/72037.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo RPC TV Ponta Grossa SD
+http://srvx.io:80/live/cliente.willian/will1/72038.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo SP FHD [H265]
+http://srvx.io:80/live/cliente.willian/will1/104938.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo SP FHD
+http://srvx.io:80/live/cliente.willian/will1/72040.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo SP HD
+http://srvx.io:80/live/cliente.willian/will1/72041.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo SP SD
+http://srvx.io:80/live/cliente.willian/will1/72042.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Anhanguera FHD
+http://srvx.io:80/live/cliente.willian/will1/72043.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Anhanguera HD
+http://srvx.io:80/live/cliente.willian/will1/72044.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Anhanguera SD
+http://srvx.io:80/live/cliente.willian/will1/72045.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Asa Branca FHD
+http://srvx.io:80/live/cliente.willian/will1/102554.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Asa Branca HD
+http://srvx.io:80/live/cliente.willian/will1/102555.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Asa Branca SD
+http://srvx.io:80/live/cliente.willian/will1/102556.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76160_dark_360w_270h.png" group-title="Globo", Globo TV Cabo Branco FHD
+http://srvx.io:80/live/cliente.willian/will1/72046.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76160_dark_360w_270h.png" group-title="Globo", Globo TV Cabo Branco HD
+http://srvx.io:80/live/cliente.willian/will1/72047.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76160_dark_360w_270h.png" group-title="Globo", Globo TV Cabo Branco SD
+http://srvx.io:80/live/cliente.willian/will1/72048.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75845_dark_360w_270h.png" group-title="Globo", Globo TV Centro America FHD
+http://srvx.io:80/live/cliente.willian/will1/72049.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75845_dark_360w_270h.png" group-title="Globo", Globo TV Centro America HD
+http://srvx.io:80/live/cliente.willian/will1/72050.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75845_dark_360w_270h.png" group-title="Globo", Globo TV Centro America SD
+http://srvx.io:80/live/cliente.willian/will1/72051.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV Clube Teresina FHD
+http://srvx.io:80/live/cliente.willian/will1/72052.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV Clube Teresina HD
+http://srvx.io:80/live/cliente.willian/will1/72053.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV Clube Teresina SD
+http://srvx.io:80/live/cliente.willian/will1/72054.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV Diario Mogi das Cruzes FHD
+http://srvx.io:80/live/cliente.willian/will1/97595.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV Diario Mogi das Cruzes HD
+http://srvx.io:80/live/cliente.willian/will1/97596.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV Diario Mogi das Cruzes SD
+http://srvx.io:80/live/cliente.willian/will1/97597.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s106281_dark_360w_270h.png" group-title="Globo", Globo TV Gazeta Alagoas FHD
+http://srvx.io:80/live/cliente.willian/will1/72055.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s106281_dark_360w_270h.png" group-title="Globo", Globo TV Gazeta Alagoas HD
+http://srvx.io:80/live/cliente.willian/will1/72056.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s106281_dark_360w_270h.png" group-title="Globo", Globo TV Gazeta Alagoas SD
+http://srvx.io:80/live/cliente.willian/will1/72057.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76473_dark_360w_270h.png" group-title="Globo", Globo TV Gazeta Sul FHD
+http://srvx.io:80/live/cliente.willian/will1/72058.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76473_dark_360w_270h.png" group-title="Globo", Globo TV Gazeta Sul HD
+http://srvx.io:80/live/cliente.willian/will1/72059.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76473_dark_360w_270h.png" group-title="Globo", Globo TV Gazeta Sul SD
+http://srvx.io:80/live/cliente.willian/will1/72060.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76473_dark_360w_270h.png" group-title="Globo", Globo TV Gazeta Vitoria FHD
+http://srvx.io:80/live/cliente.willian/will1/72061.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76473_dark_360w_270h.png" group-title="Globo", Globo TV Gazeta Vitoria HD
+http://srvx.io:80/live/cliente.willian/will1/72062.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76473_dark_360w_270h.png" group-title="Globo", Globo TV Gazeta Vitoria SD
+http://srvx.io:80/live/cliente.willian/will1/72063.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s98165_dark_360w_270h.png" group-title="Globo", Globo TV Integracao Araxa FHD
+http://srvx.io:80/live/cliente.willian/will1/72064.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s98165_dark_360w_270h.png" group-title="Globo", Globo TV Integracao Araxa HD
+http://srvx.io:80/live/cliente.willian/will1/72065.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s98165_dark_360w_270h.png" group-title="Globo", Globo TV Integracao Araxa SD
+http://srvx.io:80/live/cliente.willian/will1/72066.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s98165_dark_360w_270h.png" group-title="Globo", Globo TV Integracao Juiz de Fora FHD
+http://srvx.io:80/live/cliente.willian/will1/72067.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s98165_dark_360w_270h.png" group-title="Globo", Globo TV Integracao Juiz de Fora HD
+http://srvx.io:80/live/cliente.willian/will1/72068.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s98165_dark_360w_270h.png" group-title="Globo", Globo TV Integracao Juiz de Fora SD
+http://srvx.io:80/live/cliente.willian/will1/72069.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s75843_dark_360w_270h.png" group-title="Globo", Globo TV Liberal Belem FHD
+http://srvx.io:80/live/cliente.willian/will1/72070.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s78456_dark_360w_270h.png" group-title="Globo", Globo TV Mirante Sao Luis FHD
+http://srvx.io:80/live/cliente.willian/will1/72073.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s78456_dark_360w_270h.png" group-title="Globo", Globo TV Mirante Sao Luis HD
+http://srvx.io:80/live/cliente.willian/will1/72074.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s78456_dark_360w_270h.png" group-title="Globo", Globo TV Mirante Sao Luis SD
+http://srvx.io:80/live/cliente.willian/will1/72075.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76185_dark_360w_270h.png" group-title="Globo", Globo TV Morena FHD
+http://srvx.io:80/live/cliente.willian/will1/72076.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76185_dark_360w_270h.png" group-title="Globo", Globo TV Morena HD
+http://srvx.io:80/live/cliente.willian/will1/72077.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76185_dark_360w_270h.png" group-title="Globo", Globo TV Morena SD
+http://srvx.io:80/live/cliente.willian/will1/72078.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105312_dark_360w_270h.png" group-title="Globo", Globo TV Rio Sul FHD
+http://srvx.io:80/live/cliente.willian/will1/72079.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105312_dark_360w_270h.png" group-title="Globo", Globo TV Rio Sul HD
+http://srvx.io:80/live/cliente.willian/will1/72081.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s105312_dark_360w_270h.png" group-title="Globo", Globo TV Rio Sul SD
+http://srvx.io:80/live/cliente.willian/will1/72082.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104330_dark_360w_270h.png" group-title="Globo", Globo TV Sergipe FHD
+http://srvx.io:80/live/cliente.willian/will1/72086.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104330_dark_360w_270h.png" group-title="Globo", Globo TV Sergipe HD
+http://srvx.io:80/live/cliente.willian/will1/72087.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104330_dark_360w_270h.png" group-title="Globo", Globo TV Sergipe SD
+http://srvx.io:80/live/cliente.willian/will1/72088.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Bauru FHD
+http://srvx.io:80/live/cliente.willian/will1/91431.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Bauru HD
+http://srvx.io:80/live/cliente.willian/will1/91432.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Bauru SD
+http://srvx.io:80/live/cliente.willian/will1/72616.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Itapetininga FHD
+http://srvx.io:80/live/cliente.willian/will1/91435.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Itapetininga HD
+http://srvx.io:80/live/cliente.willian/will1/91436.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Itapetininga SD
+http://srvx.io:80/live/cliente.willian/will1/91437.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Sao Jose do Rio Preto FHD
+http://srvx.io:80/live/cliente.willian/will1/91433.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Sao Jose do Rio Preto HD
+http://srvx.io:80/live/cliente.willian/will1/91434.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Sao Jose do Rio Preto SD
+http://srvx.io:80/live/cliente.willian/will1/72622.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Sorocaba FHD
+http://srvx.io:80/live/cliente.willian/will1/91438.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Sorocaba HD
+http://srvx.io:80/live/cliente.willian/will1/91439.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s76135_dark_360w_270h.png" group-title="Globo", Globo TV TEM Sorocaba SD
+http://srvx.io:80/live/cliente.willian/will1/72623.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104480_dark_360w_270h.png" group-title="Globo", Globo TV Tribuna Santos FHD
+http://srvx.io:80/live/cliente.willian/will1/97592.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Tribuna Santos HD
+http://srvx.io:80/live/cliente.willian/will1/93604.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104480_dark_360w_270h.png" group-title="Globo", Globo TV Tribuna Santos SD
+http://srvx.io:80/live/cliente.willian/will1/72596.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Vanguarda S.J dos Campos FHD
+http://srvx.io:80/live/cliente.willian/will1/97591.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Vanguarda S.J dos Campos SD
+http://srvx.io:80/live/cliente.willian/will1/72624.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Vanguarda Taubate FHD
+http://srvx.io:80/live/cliente.willian/will1/100375.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Vanguarda Taubate HD
+http://srvx.io:80/live/cliente.willian/will1/93605.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo", Globo TV Vanguarda Taubate SD
+http://srvx.io:80/live/cliente.willian/will1/93606.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104196_dark_360w_270h.png" group-title="Globo", Globo TV Verdes Mares FHD
+http://srvx.io:80/live/cliente.willian/will1/72095.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104196_dark_360w_270h.png" group-title="Globo", Globo TV Verdes Mares HD
+http://srvx.io:80/live/cliente.willian/will1/72096.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assem3u8/stationLogos/s104196_dark_360w_270h.png" group-title="Globo", Globo TV Verdes Mares SD
+http://srvx.io:80/live/cliente.willian/will1/72097.m3u8
+
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Portugal", TV Globo
+http://srvx.io:80/live/cliente.willian/will1/74995.m3u8
+
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Portugal", TV Globo FHD
+http://srvx.io:80/live/cliente.willian/will1/74996.m3u8
+
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Portugal", TV Globo NOW
+http://srvx.io:80/live/cliente.willian/will1/74997.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", IPTV
+https://ottplayer.tv/public/images/best_video.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD NEWS
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w1341076987.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND
+http://168.205.87.198:8555/live/elienecp/123456/19.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CNN Brasil
+http://168.205.87.198:8555/live/123456/123456/28.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CNN Brasil
+http://200.4.96.35:8003/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEWS
+http://200.4.96.35:8003/play/a03h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO RJ - TEMPORÁRIO
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD NEWS
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w1341076987.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CULTURA PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CBN Sao Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GOSPEL FILMES
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1802804125.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV CINE
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w468093785.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE UTV BRASIL
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w229766121.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV NOVA ONDA
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w210878578.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFE CHANNEL BRASIL
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4365564105550557000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CHANNEL 1
+https://stmv1.srvstm.com/channel1/channel1/chunklist_w1484319704.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA GAZETA TV
+http://video02.kshost.com.br/sueli3485/sueli3485/chunklist_w1130746084.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV J. N - FILMES
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w454345609.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ENTORNO SUL WEB TV
+http://video02.kshost.com.br/manoel2072/manoel2072/chunklist_w531577828.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV SUL- FILMES
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CARIOCA NET - FILMES
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w301420907.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TWG FILMES
+https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1428805801.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", D+TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV SERRA VERDE
+http://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w1352055894.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIP WEB
+https://stmv1.srvsh.com.br/matinelio8065/matinelio8065/chunklist_w230093158.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE PREMIUM TV
+https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1711873655.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE ACTION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CENTRAL TV
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w673606021.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BET BRASIL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE LIVRE 2
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w1963860689.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL ITV (Filmes e Series)
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1051564014.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES DA WEB 1
+https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES DA WEB 2
+http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES ACAO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES 1
+https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w1332883736.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES 2
+https://01.paineldevideo.com/encaucafm/encaucafm/chunklist_w1224794838.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV WEB SERIES
+https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1428805801.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CLASSIC TV - FILMES
+https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w322169939.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV PANTANAL - FILMES
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE BRASIL
+http://168.205.87.198:8555/live/123456/123456/145.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV TRIBUNA - FILMES
+https://novo.bitstreaming.info:1936/8132/8132/chunklist_w1519752561.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE CLONE
+https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/chunklist_w1962759487.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RSC TV BRASIL
+http://177.11.96.110:9080/hls/sictv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV ILHA - FILMES
+https://01.paineldevideo.com/encaucafm/encaucafm/chunklist_w1864256847.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CTV
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w21837477.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE SUL TV
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w188223555.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV NOVA PARAIBA
+https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/chunklist_w539011071.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VILA TV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w606214968.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIGITAL BIRIGUI
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RAKUTEN
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SERIES ANTIGAS
+https://serv3.videovox.pw/alexandre4108/alexandre4108/chunklist_w648229082.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BS TV
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w1147921945.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV OSÓRIO NEWS
+https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w2137453495.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w527769475.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ELY TV
+https://stmv1.srvsite.com/ely/ely/chunklist_w1757586043.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV POMBAL
+https://stmv1.srvif.com/tvpombal/tvpombal/chunklist_w2104121860.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK
+http://168.205.87.198:8555/live/123456/123456/26.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK
+http://168.205.87.198:8555/live/123456/123456/26.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY XD
+http://168.205.87.198:8555/live/elienecp/123456/47.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", OS JETSONS TV 1
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", OS JETSONS  TV 2
+https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY Kids
+http://200.4.96.35:8003/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BOOMERANG
+http://168.205.87.198:8555/live/123456/123456/22.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PLAY PLUS
+https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY JR
+http://168.205.87.198:8555/live/elienecp/123456/46.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY JR
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/46.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BABY FIRST
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FUTURA
+http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", KURIAKUS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PLAY KIDS
+https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SERIES ANTIGAS
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1943212045.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON ANTIGOS
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w703592068.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
+http://200.4.96.35:8003/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Family
+http://200.4.96.35:8003/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Mundi
+http://200.4.96.35:8002/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MUNDI
+http://200.4.96.35:8001/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Plus
+http://200.4.96.35:8003/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Pop
+http://200.4.96.35:8003/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Signature
+http://200.4.96.35:8003/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Xtreme
+http://200.4.96.35:8002/play/a0f1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO2
+http://200.4.96.35:8003/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Hollywood [Portugal]
+http://51.15.0.141:88/hollywood/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TCM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SÉRIES
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Comedy Central
+http://200.4.96.35:8003/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Sony
+http://200.4.96.35:8003/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TCM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SÉRIES
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX
+http://168.205.87.198:8555/live/123456/123456/68.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL 1
+http://168.205.87.198:8555/live/123456/123456/33.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL 3
+http://200.4.96.35:8003/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TRAVEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/124.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TRUTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/130.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GNT
+http://200.4.96.35:8003/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 2
+http://168.205.87.198:8555/live/123456/123456/71.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 3
+http://168.205.87.198:8555/live/elienecp/123456/71.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY 1
+http://200.4.96.35:8001/play/a0e8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY 2
+http://200.4.96.35:8003/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY 3
+http://200.4.96.35:8002/play/a0e8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER 1
+http://168.205.87.198:8555/live/123456/123456/39.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER 2
+http://168.205.87.198:8555/live/123456/123456/39.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TLC 4
+http://168.205.87.198:8555/live/elienecp/123456/40.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO 1
+http://168.205.87.198:8555/live/123456/123456/41.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO 2
+http://168.205.87.198:8555/live/123456/123456/41.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD 2
+http://168.205.87.198:8555/live/123456/123456/42.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD 3
+http://200.4.96.35:8003/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BRZ Channel
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VRT CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PLUTO TV NATUREZA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a4847740-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca3f95d8-1041-4459-9b66-b5047a1da826&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NAT GEO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/78.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LOVE NATURE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a4847740-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca3f95d8-1041-4459-9b66-b5047a1da826&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 1
+http://200.4.96.35:8001/play/a0fe/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Classicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Classicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Comedia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Familia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Familia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Familia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE FAMILIA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fail Army
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fail Army
+https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fail Army
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=502&deviceId=5f5141c1605ddf000748eb1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fail Army
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FailArmy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE
+http://200.4.96.35:8001/play/a0em/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE
+http://200.4.96.35:8002/play/a0em/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SPORTS
+http://200.4.96.35:8001/play/a0f9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SPORTS
+http://200.4.96.35:8002/play/a0f9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX SPORTES
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN BRASIL
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FISH TV
+http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 1 (PT)
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX SPORTES
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WOOHOO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/141.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", EDGE SPORTS
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLORY KICKBOXINGi
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT SPORTS 1
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT SPORTS 2
+http://177.20.208.58:8000/play/a052/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT SPORTS 3
+http://177.20.208.58:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT SPORTS 4
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FIGHT TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fighting Spirit
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 2 (PT)
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 3 (PT)
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 4 (PT)
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT TV 5 (PT)
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 2
+http://200.4.96.35:8004/play/a0dy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 5
+http://200.4.96.35:8004/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 7
+http://200.4.96.35:8001/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 8
+http://200.4.96.35:8002/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 10
+http://200.4.96.35:8001/play/a0eb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CONMEBOL TV 11
+http://200.4.96.35:8002/play/a0eb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COPA NORDESTE 1
+http://200.4.96.35:8001/play/a0fg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COPA NORDESTE 2
+http://200.4.96.35:8002/play/a0fg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COPA NORDESTE 3
+http://200.4.96.35:8001/play/a0fh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COPA NORDESTE 4
+http://200.4.96.35:8002/play/a0fh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BRA MUSIC
+http://168.205.87.198:8555/live/123456/123456/24.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL CULT
+http://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIS
+http://200.4.96.35:8001/play/a0ex/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIS
+http://200.4.96.35:8002/play/a0ex/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMERICA LATINO
+http://168.205.87.198:8555/live/123456/123456/16.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL MEGA
+https://origin-02.nxplay.com.br/MEGA/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CALIFORNIA MUSIC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Classic Hits
+http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 2
+http://200.4.96.35:8002/play/a0fe/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 4
+http://168.205.87.198:8555/live/123456/123456/18.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 5
+http://168.205.87.198:8555/live/123456/123456/18.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 6
+http://168.205.87.198:8555/live/elienecp/123456/18.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 7
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET 8
+http://168.205.87.198:8555/live/elienecp/123456/18.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER 3
+http://200.4.96.35:8003/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TLC 2
+http://168.205.87.198:8555/live/elienecp/123456/40.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TLC 3
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/40.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO 3
+http://200.4.96.35:8001/play/a0eo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Turbo 4
+http://200.4.96.35:8002/play/a0eo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCI 2
+http://168.205.87.198:8555/live/elienecp/123456/38.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCI 3
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCI 5
+http://200.4.96.35:8001/play/a0ds/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCI 6
+http://200.4.96.35:8002/play/a0ds/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 4
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/71.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 5
+http://200.4.96.35:8001/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 6
+http://200.4.96.35:8002/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 7
+http://168.205.87.198:8555/live/elienecp/123456/71.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV 8
+http://168.205.87.198:8555/live/123456/123456/71.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
+http://200.4.96.35:8001/play/a0e9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
+http://200.4.96.35:8002/play/a0e9/index.m3u8
