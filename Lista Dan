@@ -1,10 +1,46 @@
-#EXTM3U
+#EXTM3U 
 
-#EXTINF:-1 tvg-name="PREMIERE" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIERE
-http://45.160.223.214:8080/todos/todos/184
+#EXTINF:-1 group-title="ESPORTES",PREMIERE CLUBES
+http://superblazertop.com.br.global.prod.fastly.net/live/premiereclubes/play2.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 2
+http://superblazertop.com.br.global.prod.fastly.net/live/premiere2/play2.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 3
+http://superblazertop.com.br.global.prod.fastly.net/live/premiere3/play2.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 4
+http://superblazertop.com.br.global.prod.fastly.net/live/premiere4/play2.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 5
+http://superblazertop.com.br.global.prod.fastly.net/live/premiere5/play2.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 6
+http://superblazertop.com.br.global.prod.fastly.net/live/premiere6/play2.m3u8
 
-EXTINF:-2 tvg-name="PREMIERE2" group-title"ESPORTES" tvg-logo="http://ipbr.tv/img/stream/premiere.png",PREMIER2
-http://dnsx.co:80/caiomacena3/america/72262
+
+#EXTINF:-1 group-title="ESPORTES",SPORTV 1
+http://superblazertop.com.br.global.prod.fastly.net/live/sportv/play2.m3u8
+#EXTINF:-1 group-title="ESPORTES",SPORTV 2
+http://superblazertop.com.br.global.prod.fastly.net/live/sportv2/play2.m3u8
+#EXTINF:-1 group-title="ESPORTES",SPORTV 3
+http://superblazertop.com.br.global.prod.fastly.net/live/sportv3/play2.m3u8
 
 
-http://dns.7wtv.online:2082/4pxzrsbtlk/td7dgwvdha/7039
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://superblazertop.com.br.global.prod.fastly.net/live/espn/play2.m3u8
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
+http://superblazertop.com.br.global.prod.fastly.net/live/espn/play2.m3u8
+
+
+#EXTINF:-1 group-title="ESPORTES",TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="ESPORTES",TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="ESPORTES",TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="ESPORTES",TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="ESPORTES",TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+
+#EXTINF:-1 group-title="ESPORTES",GLOBO 1
+http://superblazertop.com.br.global.prod.fastly.net/live/globo/play2.m3u8
+
+
